@@ -1,0 +1,1 @@
+var demo = "This file contain index.js which belongs to images folder."
