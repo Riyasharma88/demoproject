@@ -1,0 +1,1 @@
+var demo =" This file contains index.js file contain dev-riya repository.";
